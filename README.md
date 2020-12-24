@@ -1,5 +1,5 @@
 ---
 
-A bunch of deep learning tutorials and PyTorch models from Jovian.ai, trained on colab
+A bunch of deep learning tutorials, helper codes and PyTorch models from Jovian.ai, trained on colab
 
 ---
